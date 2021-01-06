@@ -9,7 +9,7 @@
     "@syncfusion/ej2-vue-buttons": "^18.1.56",
     "@syncfusion/ej2-vue-dropdowns": "^18.2.44",
     "@syncfusion/ej2-vue-inputs": "^18.1.59",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "bootstrap": "^4.5.0",
     "bootstrap-vue": "^2.15.0",
     "core-js": "^3.6.5",
